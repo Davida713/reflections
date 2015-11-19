@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It creates a git file that runs git in the background. 
 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area bundles the commit together before you send it to the repo. I think it could catch things before you send it to the repo.
