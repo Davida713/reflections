@@ -22,3 +22,7 @@ git log --graph --oneline master coins
 How do the diagrams help you visualize the branch structure?
 
 Becaus ethey make them relatable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging take all the added lines and removed lines from two branches and puts them togehter to make one branch. This removes the need for the other branch. In the diagram merge would act upon the repository. 

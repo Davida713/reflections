@@ -25,4 +25,11 @@ Git log shows you a list of all the comites, and you can see the actual changes 
 How might using version control make you more confident to make changes that could break something?
 
 
-You can go back! 
+You can go back!
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
+
+Showing changes on some code 
