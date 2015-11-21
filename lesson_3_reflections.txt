@@ -29,6 +29,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 You could just email files between users. This would be a pain in the ass.
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+when you are working with other people and you want to show them teh changes before incorporating it into master. Also if you are unsure if the changes will stick like an experimental feature, or if it is a parrelle version. 
+
+
 
 
 
