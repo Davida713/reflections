@@ -21,3 +21,14 @@ Branches means creating a new version locally in parallel with the origional so 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can see any changes between the local version adn the last knon state or the remote for differences and resove them before pushing to the remote.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+
+You could just email files between users. This would be a pain in the ass.
+
+
+
+
+
