@@ -7,3 +7,12 @@ When you want to work with others or create a place where it is backed up online
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because you will sometimes be in the middle of making a change and it will have to keep track of the changes if they update automattically. You should intentionally save when at a logical stopping point. 
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are a special type of clone that copies that repo on github into your account so that it is linked to the origional but you can make any changes you want without affecting the origional. 
+
+Cloneing means to copy a repo either locally or from github to the local computer. 
+
+Branches means creating a new version locally in parallel with the origional so changes can be made without changing the origion. You can merge the changes of the parralle branches later. 
