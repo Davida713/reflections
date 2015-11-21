@@ -16,3 +16,8 @@ Forks are a special type of clone that copies that repo on github into your acco
 Cloneing means to copy a repo either locally or from github to the local computer. 
 
 Branches means creating a new version locally in parallel with the origional so changes can be made without changing the origion. You can merge the changes of the parralle branches later. 
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can see any changes between the local version adn the last knon state or the remote for differences and resove them before pushing to the remote.
